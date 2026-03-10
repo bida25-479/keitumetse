@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    color: #333;
+    color: lch(36.32% 57.52 288.67);
     background-color: #f9f9f9;
     margin: 0;
     padding: 0;
@@ -8,8 +8,8 @@ body {
 }
 
 header{
-    background-color: #4caf50;
-    color: white;
+    background-color: #4c98af;
+    color: rgb(3, 4, 4);
     padding: 20px;
     text-align: center;
 }
@@ -19,7 +19,7 @@ header h1{
 }
 
 nav a {
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     margin: 0 10px;
 }
@@ -55,7 +55,7 @@ p{
 }
 
 a{
-    color: #4CAF50;
+    color: #4c9baf;
     text-decoration: none;
 }
 a:hover {
@@ -63,12 +63,12 @@ a:hover {
 }
 
 img {
-    border: 5px solid #4CAF50;
+    border: 5px solid #4c9baf;
     border-radius: 10px;
 }
 
 main a[hredf^="mailto:"] {
-    color: #ff5722;
+    color: #22b2ff;
     font-weight: bold;
 }
 
